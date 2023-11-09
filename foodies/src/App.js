@@ -9,10 +9,7 @@ function App() {
   //   setUser(checkToken());
   // }, []);
 
-  return (
-    //heelo
-    <Navbar />
-  );
+  return <Navbar />;
 }
 
 export default App;
